@@ -4,3 +4,12 @@ blockquote
  font-size :20px;
 }
 
+.imageContent{
+	width:50%;
+}
+
+.seperator{
+	height:2px;
+    background-color: #33a4c9;
+
+}
